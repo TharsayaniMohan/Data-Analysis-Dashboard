@@ -11,4 +11,4 @@ Tools Used
 - Tableau - Dashboard creation
 - Excel - Dataset
 
-
+![image alt](https://github.com/TharsayaniMohan/Data-Analysis-Dashboard/blob/main/Sales.jpg?raw=true)
